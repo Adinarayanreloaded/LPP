@@ -1,1 +1,1 @@
-# LPP
+# Laptop Price Predictor
